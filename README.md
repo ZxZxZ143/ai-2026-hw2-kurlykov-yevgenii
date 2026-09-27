@@ -65,7 +65,7 @@ the code inside them is up to you.
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-cp .env.example .env             # then put your key in .env
+cp .env .env             # then put your key in .env
 ```
 
 You need one account:
