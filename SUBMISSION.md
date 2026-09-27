@@ -10,8 +10,6 @@
 State which AI tools you used and for what. Expected and fine; undisclosed use
 is not. If you used a model to help you draft a prompt, say which prompt.
 
-> ### AI assistance disclosure
-
 >I used ChatGPT (GPT-5.6 Sol) to discuss the assignment requirements, help with Python implementation and debugging, and draft/refine the prompts used in the three sublabs.
 >
 >Specifically, ChatGPT helped me draft:
